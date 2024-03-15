@@ -17,10 +17,12 @@ def createTables():
             country VARCHAR(255),
             deposit_type VARCHAR(255),
             reserved_room_type VARCHAR(255),
+            assigned_room_type VARCHAR(255),
             adults INT,
             children INT,
             stays_in_week_nights INT,
             stays_in_weekend_nights INT,
+            booking_changes INT,
             adr FLOAT,
             reservation_status VARCHAR(255),
             market_segment VARCHAR(255)

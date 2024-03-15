@@ -19,6 +19,8 @@ def insert_data_into_hotel_bookings(conn, cursor):
         print(deposit_type)
         reserved_room_type = row["reserved_room_type"]
         print(reserved_room_type)
+        assigned_room_type = row["assigned_room_type"]
+        print(assigned_room_type)
         adults = row["adults"]
         print(adults)
         children = row["children"]
@@ -27,6 +29,8 @@ def insert_data_into_hotel_bookings(conn, cursor):
         print(stays_in_week_nights)
         stays_in_weekend_nights = row["stays_in_weekend_nights"]
         print(stays_in_weekend_nights)
+        booking_changes = row["booking_changes"]
+        print(booking_changes)
         adr = row["adr"]
         print(adr)
         reservation_status = row["reservation_status"]
@@ -34,11 +38,11 @@ def insert_data_into_hotel_bookings(conn, cursor):
         market_segment = row["market_segment"]
         print(market_segment)
         insert_query = """
-        INSERT INTO Hotel_Bookings (hotel, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, adults, children, stays_in_week_nights, adr, reservation_status, market_segment)
-        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO Hotel_Bookings (hotel, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, assigned_room_type, adults, children, stays_in_week_nights, stays_in_weekend_nights, booking_changes, adr, reservation_status, market_segment)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """
-        cursor.execute(insert_query, (hotel, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, adults, children, stays_in_week_nights, adr, reservation_status, market_segment))
-        if index == 5000:
+        cursor.execute(insert_query, (hotel, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, assigned_room_type, adults, children, stays_in_week_nights, stays_in_weekend_nights, booking_changes, adr, reservation_status, market_segment))
+        if index == 5:
             break
     
     conn.commit()
@@ -65,8 +69,8 @@ def insert_data_into_hotel_reviews(conn, cursor, table_name, csv_file, columns):
         VALUES (%s, %s, %s, %s, %s, %s)
         """
         cursor.execute(insert_query, (hotel, zip_code, numRev, Score, Cleanliness, Comfort))
-        # if index == 3:
-        #     break
+        if index == 1:
+            break
     
     conn.commit()
     print("Hotel reviews data inserted")

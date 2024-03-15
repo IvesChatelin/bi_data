@@ -1,7 +1,7 @@
 import pandas as pd
 
 def filter_csvs():
-    hotel_bookings_columns = ["hotel", "is_canceled", "reservation_status_date", "country", "deposit_type", "reserved_room_type", "adults", "children", "stays_in_week_nights","stays_in_weekend_nights", "adr", "reservation_status", "market_segment"]
+    hotel_bookings_columns = ["hotel", "is_canceled", "reservation_status_date", "country", "deposit_type", "reserved_room_type", "assigned_room_type", "adults", "children", "stays_in_week_nights","stays_in_weekend_nights", "booking_changes", "adr", "reservation_status", "market_segment"]
     hotel_reviews_columns = ["hotel", "zip_code", "numRev", "Score", "Cleanliness", "Comfort"]
 
     hotel_bookings_file = "hotel_bookings.csv"
