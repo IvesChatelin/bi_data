@@ -1,0 +1,318 @@
+hotel,zip_code,numRev,Score,Cleanliness,Comfort,Facilities,Staff,Value for money,Free WiFi,Location,good Fitness Center,Free Parking,Fitness Center,Family Rooms,Parking,Airport Shuttle,Air Conditioning,Free WiFi.1,Outdoor Pool,Pet Friendly,Bar,Non-smoking Rooms,WiFi,Dist,Label
+Universal's Cabana Bay Beach Resort,32819,7426,8.9,9.1,8.9,9,8.8,8.4,8.7,9.4,0,0,0,1,1,0,0,1,1,0,1,1,0,6.8,0
+Regal Oaks – The Official CLC World Resort,34746,3252,8.8,8.6,9.2,8.9,8.4,8.8,8.3,9.1,0,1,0,1,0,0,0,1,1,0,1,1,0,16.2,0
+Magic Village Resort Orlando Near Disney,34747,672,9.1,9.1,9.4,9.1,8.9,8.7,8.9,9.2,0,1,0,0,0,1,0,1,1,0,1,1,0,18.6,0
+Floridays Resort Orlando Near Disney/Seaworld,32821,3719,8.5,8,8.8,8.5,8.6,8.5,8.1,8.9,1,0,0,1,1,0,0,1,0,1,1,0,0,11.8,0
+Universal's Hard Rock Hotel,32819,2484,9,9.2,9.3,9.2,9.1,7.9,8.8,9.7,0,0,0,1,1,0,0,1,1,1,1,0,0,6.2,0
+Universal's Loews Sapphire Falls Resort,32819,2507,9.1,9.3,9.2,9.2,9.1,8.4,8.8,9.5,0,0,0,1,1,0,0,1,0,1,1,1,0,6.8,0
+Orlando Resort Rentals at Universal Boulevard,32819,878,9.2,9.1,9.4,9.2,8.8,9.1,9.2,9.4,0,1,0,1,0,0,0,1,1,0,1,1,0,8.1,0
+Wyndham Bonnet Creek,32830,492,8.6,8.6,8.9,8.8,8.3,8.2,8.6,9.2,0,1,0,0,0,0,0,1,0,0,1,1,0,14.9,0
+Sheraton Vistana Resort Villas,32821,2458,8.9,8.7,9.1,8.9,8.5,8.7,8.9,9.2,0,1,0,1,0,0,0,1,1,0,1,1,0,13.7,0
+Hyatt Regency Orlando International Airport Hotel,32827,1770,8.8,9,9,8.8,9,7.5,8.5,9.4,0,0,0,1,1,0,0,1,0,0,1,1,0,8.1,0
+Homewood Suites by Hilton Orlando Theme Parks,32821,795,9.3,9.5,9.5,9.3,9,9.1,8.9,9.3,0,1,0,1,0,0,0,1,0,0,0,1,0,9.9,0
+Universal's Loews Royal Pacific Resort,32819,1793,9.1,9.2,9.3,9.2,9.2,8,8.7,9.6,0,0,0,1,1,0,0,1,1,1,1,0,0,6.8,0
+SpringHill Suites by Marriott Orlando Lake Buena Vista in Marriott Village,32821,4325,8.6,8.6,8.5,8.4,8.6,8.5,8.5,9,0,0,0,1,1,0,0,1,1,0,0,1,0,13,0
+Sonesta ES Suites Orlando International Drive,32819,886,8.6,8.3,8.7,8.5,8.8,8.3,8.1,9.3,1,1,0,1,0,0,0,1,0,0,1,1,0,8.1,0
+WorldQuest Orlando Resort,32821,1086,8.5,8.2,8.8,8.4,8.6,8.4,8.4,8.8,0,1,0,1,0,1,0,1,0,0,1,1,0,14.3,0
+Hawthorn Suites by Wyndham Kissimmee Gateway,34747,404,8.7,8.5,8.8,8.5,8.6,8.9,8.4,8.8,0,1,0,1,0,0,0,1,1,0,0,1,0,18,0
+SpringHill Suites by Marriott Orlando at Millenia,32839,77,9.4,9.8,9.5,9.5,9.3,9.2,6.9,9.3,0,1,1,0,0,0,0,1,1,0,0,1,0,4.3,0
+Staybridge Suites Orlando - Lake Buena Vista,32836,2905,9,8.9,9.1,9,9.1,9,9.1,9.3,1,1,0,1,0,0,0,1,0,0,0,1,0,12.4,0
+Fairfield Inn & Suites by Marriott Orlando Lake Buena Vista in the Marriott Village,32821,3108,8.7,8.7,8.6,8.5,8.7,8.6,8.6,9,0,0,0,1,1,0,0,1,0,0,0,1,0,13,0
+Fairfield Inn Suites by Marriott Orlando At SeaWorld,32821,2292,8.9,9,8.9,8.8,9.1,8.7,8.9,9.2,1,0,0,1,1,0,0,1,0,0,1,1,0,9.3,0
+"Lake Buena Vista Resort Village and Spa, a staySky Hotel & Resort",32821,1692,8.5,8.1,8.7,8.5,8.4,8.4,8.7,8.9,0,1,0,1,0,0,0,1,1,0,1,1,0,13.7,0
+Sheraton Vistana Villages Resort Near Universal Blvd.,32821,3142,8.8,8.7,9.1,8.9,8.7,8.6,8.7,9.1,0,1,0,1,0,0,0,1,0,0,1,1,0,11.8,0
+Comfort Suites Maingate East,34746,1117,8.9,9,9,8.8,8.8,9,9.2,9.1,1,1,0,0,0,0,0,1,1,0,1,1,0,16.2,0
+Universal's Loews Portofino Bay Hotel,32819,580,8.9,9,9.2,9.1,8.9,7.9,9.1,9.5,0,0,0,1,1,0,0,1,1,1,1,0,0,5.6,0
+Windsor Hills Apartment,34747,50,9.2,8.9,9.3,9.2,8.9,9.5,9.2,9.6,0,1,1,1,0,0,0,1,0,0,0,1,0,19.3,0
+Olivia's Dream Villa in Windsor Hills,34747,10,9.3,9.3,9.8,9.5,8.8,9.3,10,9.5,0,1,0,1,0,0,0,1,1,0,1,1,0,19.3,0
+Hyatt Place - Orlando Convention Center,32819,669,8.6,8.6,8.7,8.4,8.9,8.2,8.6,9.1,0,1,0,1,0,0,0,1,0,1,1,1,0,8.1,0
+Walt Disney World Dolphin,32830,2233,8.2,8.3,8.3,8.2,8.3,7.2,7.3,8.9,1,0,0,1,1,0,0,0,0,0,1,1,1,15.5,1
+Staybridge Suites Orlando at SeaWorld,32821,200,9.1,8.6,9.3,9,9.2,8.9,9.4,9.3,0,1,1,0,0,0,0,1,1,0,0,1,0,9.9,0
+DoubleTree by Hilton at the Entrance to Universal Orlando,32819,1862,8.5,8.6,8.5,8.3,8.6,8,7.9,9,0,0,0,1,1,0,0,1,0,0,1,1,0,5.6,0
+Waldorf Astoria Orlando,32821,474,8.8,9.1,9.2,8.9,8.9,7.8,7.2,8.8,0,0,0,1,1,0,0,0,0,0,1,1,1,15.5,0
+Walt Disney World Swan,32830,1595,8.6,8.8,8.8,8.6,8.8,7.6,9,9.1,0,0,0,1,1,0,0,0,1,0,1,1,1,15.5,0
+Residence Inn by Marriott Orlando at SeaWorld,32821,1447,8.5,8.4,8.5,8.3,8.6,8.3,8.4,8.8,0,0,0,1,1,0,0,1,1,1,1,0,0,10.6,0
+Hyatt House across from Universal Orlando Resort,32819,26,9.2,9.1,9.1,9.1,9.3,9.1,9.3,8.8,0,1,0,1,0,0,0,1,1,0,1,1,0,5.6,0
+Water Oak IR700,34747,9,9,8.3,9.7,8.6,9.5,8.9,9.2,6,0,1,0,0,0,0,0,1,1,0,0,1,0,20.5,2
+Casiola Vacation Homes,32819,524,8.9,8.9,9.1,8.9,8.4,8.8,9.3,9.2,0,1,0,1,0,0,0,1,1,0,1,1,0,8.1,0
+Embassy Suites by Hilton Orlando International Drive Convention Center,32819,773,8.7,8.7,8.7,8.6,8.8,8.2,7.4,9.1,0,0,0,1,1,0,0,0,1,0,1,1,1,8.1,0
+TownePlace Suites by Marriott Orlando at SeaWorld,32821,191,9.3,9.4,9.2,9.2,9.4,9.2,8.3,9.3,0,1,0,1,0,0,0,1,1,1,0,0,0,9.3,0
+Residence Inn by Marriott Orlando at Millenia,32839,36,9.5,9.7,9.9,9.4,9.5,9,8.5,9.6,0,1,0,0,0,0,0,1,1,1,0,1,0,4.3,0
+Hilton Grand Vacations at Tuscany Village,32821,982,8.9,8.9,9.2,8.9,8.9,8.5,8.1,9.3,1,1,0,1,0,0,0,0,0,0,1,1,1,11.8,0
+Four Seasons Resort Orlando at Walt Disney World Resort,32836,271,9.3,9.6,9.6,9.6,9.4,8.1,9.4,9.3,0,0,0,1,1,0,0,1,1,1,1,0,0,13,0
+Hampton Inn Orlando Near Universal Blv/International Dr,32819,877,8.6,8.6,8.5,8.3,8.9,8.3,8.4,8.8,0,1,0,1,0,0,0,1,1,0,0,1,0,6.8,0
+Homewood Suites by Hilton Orlando-Intl Drive/Convention Ctr,32819,585,8.7,8.7,8.7,8.6,8.7,8.4,7.6,9.2,0,0,0,1,1,0,0,0,1,0,0,1,1,8.1,0
+Comfort Suites UCF/Research Park,32826,365,8.6,8.7,8.5,8.5,9,8.2,8.8,8.8,0,1,1,0,0,0,0,1,1,0,0,1,0,10.6,0
+Hyatt Place Orlando Lake Buena Vista,32836,467,8.9,9,9,8.7,8.7,8.5,9,9.1,0,1,0,0,0,0,0,1,0,1,1,1,0,12.4,0
+Hyatt Regency Orlando,32819,1821,8.9,9,9.1,9.1,8.9,8.1,8.7,9.1,0,0,0,1,1,1,0,1,0,1,1,0,0,8.7,0
+Eight Bedrooms with Private Pool and Spa (1747),34747,7,8.9,9.3,9.3,8.9,7.5,8.6,9.7,4,0,1,0,0,0,0,0,1,1,0,0,0,0,20.5,2
+Galleria Palms Orlando,34747,1074,8.6,8.6,8.4,8.3,8.7,8.6,9,8.8,0,1,0,1,0,0,0,1,1,0,0,1,0,18.6,0
+Kissimmee Area Pool Home,34747,12,9.1,9,9.2,9.4,8.8,9.2,9,8,0,1,0,0,0,0,1,1,1,0,0,1,0,18,0
+Summerville Resort Five Bedroom Townhome SV102,34747,7,9.4,9.3,8.9,9.7,9.3,9.7,9.7,6,0,1,0,1,0,0,0,1,0,1,0,1,0,18.6,2
+Courtyard by Marriott Orlando Lake Buena Vista in the Marriott Village,32821,1941,8.6,8.7,8.6,8.5,8.6,8.4,8.3,8.9,0,0,0,1,1,1,0,1,1,0,1,0,0,13,0
+The Point Hotel & Suites Universal Blvd,32819,799,8.8,8.6,9,8.7,8.9,8.5,8.7,9,1,1,0,1,0,0,0,1,0,0,1,1,0,6.8,0
+SpringHill Suites by Marriott Orlando at SeaWorld,32821,1140,9.1,9.1,9.1,8.9,9.2,8.9,9.3,8.8,1,0,0,1,1,0,0,0,0,0,1,1,0,9.3,0
+Holiday Inn Orlando – Disney Springs™ Area,32830,1369,8.6,8.6,8.5,8.4,8.8,8.1,8.6,9,1,0,0,0,1,0,0,1,1,0,1,1,0,13,0
+Spacious Vacation Home Rental House 77Tb12,34747,6,8.3,7.1,8.8,8.8,8.8,7.9,8.8,5,0,1,0,0,0,0,1,1,0,0,0,0,0,19.3,2
+Residence Inn Orlando Lake Buena Vista,32836,250,8.7,8.6,8.8,8.6,8.7,8.6,8.7,8.9,0,0,0,1,1,0,0,1,0,1,1,1,0,11.8,0
+Hilton Grand Vacations at SeaWorld,32821,1524,8.8,8.8,9,8.9,8.7,8.5,8.2,9.1,0,1,0,1,0,0,0,0,0,0,1,1,1,9.9,0
+"The Ritz-Carlton Orlando, Grande Lakes",32837,344,8.8,9,9,8.9,9.1,8,8.4,8.7,0,0,0,1,1,0,0,0,0,1,1,1,1,9.3,0
+Formosa Garden Pool Home,34747,24,9.2,8.9,9.6,8.9,9.1,9.3,9.3,8.8,0,1,0,0,0,0,1,1,1,0,0,0,0,19.9,0
+Renaissance Orlando at SeaWorld®,32821,1699,8.9,9.1,9.1,9,8.9,8.3,6.9,9.1,0,0,0,1,1,1,0,0,1,0,1,0,1,9.9,0
+Caribe Royale Orlando Near Disney,32821,3263,8.6,8.7,8.7,8.6,8.6,8.1,7.4,8.8,0,0,0,1,1,0,0,1,0,0,1,1,0,13.7,0
+Wyndham Grand Orlando Resort Bonnet Creek,32830,2575,8.6,8.7,8.8,8.8,8.6,8,8.5,8.8,0,0,0,1,1,0,0,1,1,1,1,0,0,14.9,0
+Vista Cay Resort by Millenium at Universal Blvd.,32819,463,8.5,8.4,8.7,8.5,8.1,8.3,8.9,9.1,0,1,0,1,0,0,0,1,1,0,1,1,0,8.1,0
+Orlando Escape,32819,128,9.1,9.4,9.4,9.3,8.4,9,9.6,9.3,0,1,0,1,0,1,0,1,1,0,1,0,0,8.1,0
+Universal’s Family Suites at Cabana Bay Beach Resort,32819,176,8.6,8.7,8.6,8.5,8.6,8,8,9.3,0,0,0,1,1,0,0,1,1,0,1,1,0,6.8,0
+Ashcroft 411L Six-Bedroom House,34761,5,8.2,8.5,8.5,8.5,8.5,7.5,7.5,3,0,1,0,1,0,1,0,1,1,0,1,0,0,20.5,2
+The Boat House,34747,10,9.3,8.8,9.5,9.5,9.7,9.3,9.3,8,0,1,0,0,0,0,1,1,1,0,0,1,0,20.5,0
+Homewood Suites by Hilton Orlando-Nearest to Universal Studios,32819,559,8.7,8.7,8.8,8.7,8.9,8.5,8.2,9,0,1,0,1,0,0,0,1,1,0,0,1,0,6.2,0
+Quality Inn & Suites By The Parks,34747,3294,8.6,8.6,8.3,8.3,9,8.6,8.3,8.7,0,1,0,0,0,0,0,1,1,0,0,0,0,18.6,0
+Villas of Grand Cypress,32836,417,9.1,9.3,9.4,9.2,9.2,8.5,9,9.2,0,1,0,1,0,0,0,1,0,1,1,1,0,12.4,0
+Hyatt Place across from Universal Orlando Resort,32819,645,8.3,8.3,8.3,8,8.7,8,8.1,8.7,0,1,0,1,0,0,0,1,1,1,1,0,0,5.6,0
+Disney Bunk Room--Windsor Hills,34747,7,9,8.6,9.3,9.7,8.2,8.9,9.3,6,0,1,1,0,0,0,0,1,1,0,1,1,0,19.3,2
+Blue Heron Beach Resort,32821,912,8.6,8,8.7,8.5,8.6,8.7,9,9.2,0,1,0,1,0,0,0,1,1,0,1,1,0,13,0
+Holiday Inn Express-International Drive,32819,681,8.7,8.8,8.8,8.5,8.6,8.4,8.3,8.9,1,1,0,0,0,0,0,1,1,0,0,1,0,7.5,0
+Hyatt Regency Grand Cypress,32836,1586,8.9,8.9,9.1,9.2,9,8.2,8.8,9.1,0,0,0,1,1,1,0,1,0,1,1,0,0,13,0
+Courtyard by Marriott Orlando South/John Young Parkway,32837,156,9.1,9.4,9.1,9.2,9.1,8.8,8.5,8.7,1,1,0,0,0,0,0,1,0,0,1,1,0,8.1,0
+Loyalty Vacation Homes - Kissimmee,33896,174,9,8.8,9.2,9.1,8.9,8.9,9.3,8.9,0,1,0,1,0,0,0,1,1,1,0,0,0,20.5,0
+Comfort Suites,32819,626,8.8,8.7,8.8,8.6,8.8,8.8,8.2,9.1,1,1,0,0,0,0,0,1,0,0,0,1,0,5.6,0
+Best Western Orlando Gateway Hotel,32819,5361,8.4,8.3,8.2,8.1,8.7,8.3,8.6,8.8,1,1,0,1,0,0,0,1,0,0,1,1,0,6.8,0
+Sheraton Suites Orlando Airport Hotel,32822,1094,8.6,8.7,8.8,8.5,8.5,8.1,8.7,8.8,0,0,0,1,1,0,0,1,0,1,1,0,0,6.8,0
+Fairfield Inn & Suites by Marriott Orlando International Drive/Convention Center,32819,690,8.7,8.8,8.8,8.6,8.7,8.5,8.6,9.1,0,1,1,1,0,0,0,1,0,0,0,1,0,7.5,0
+Hilton Orlando,32819,957,8.5,8.8,8.8,8.8,8.6,7.5,6.5,8.6,1,0,0,1,1,0,0,0,0,0,1,1,1,8.7,0
+Marriott's Cypress Harbour Villas,32821,317,9.5,9.5,9.7,9.6,9.5,9.3,9.8,9.6,0,1,0,1,0,0,0,1,0,0,1,1,0,10.6,0
+Oakwater Resort 7514,34747,10,9,9.2,9.5,8.5,8.1,9.5,9.5,5,0,1,0,1,0,0,0,1,1,0,0,1,0,18.6,2
+Cypress Pointe Resort by Diamond Resorts,32836,849,8.8,8.8,8.9,8.6,8.7,8.7,8.5,9,1,1,0,0,0,0,0,1,0,0,0,1,0,11.8,0
+Regal Oaks Resort 2719,34746,8,8.9,8.5,9.1,9.1,8.8,8.8,10,9.4,0,1,1,0,0,0,0,1,1,0,1,0,0,16.2,0
+Universal Studios Area Apartment,32819,67,9.2,9.1,9.5,9.2,8.9,9.2,8.8,9.3,0,1,0,1,0,0,0,1,0,0,0,1,0,8.1,0
+Regal Oaks Resort 2749,34746,7,8.7,8.2,9.7,8.9,7.5,8.6,7.5,9.3,0,1,1,0,0,0,0,1,1,0,1,0,0,16.2,0
+Grande Villas Resort By Diamond Resorts,32836,869,8.9,8.8,8.9,8.8,8.9,8.7,8.5,9.1,0,1,1,1,0,0,0,1,0,0,0,1,0,11.8,0
+Legacy Vacation Resorts - Lake Buena Vista,32836,641,8.5,8.3,8.5,8.2,8.8,8.4,8.6,8.9,0,1,0,1,0,0,0,1,1,0,0,1,0,12.4,0
+Grand Beach Resort By Diamond Resorts,32821,518,9,9,9.2,8.9,8.8,8.8,8.8,9.1,0,1,0,1,0,0,0,1,1,0,0,1,0,13.7,0
+Patty's Place,34747,19,9.4,9.5,9.5,9.4,9.4,9.4,10,9.6,0,1,0,1,0,0,0,1,1,0,0,1,0,19.3,0
+Hampton Inn & Suites Orlando/Downtown South - Medical Center,32806,380,9.2,9.6,9.5,9.3,9.4,8.6,8.3,8.7,0,0,0,1,1,0,0,1,0,0,0,1,0,2950,0
+Parkway International Celebration Area By Diamond Resorts,34746,454,8.9,8.7,9.1,8.8,8.9,9,8.6,8,0,1,0,1,0,0,0,1,1,0,1,1,0,16.2,0
+Rocco's Retreat,34747,13,8.5,8.6,8.8,8.6,8.1,8.3,7.5,8.5,0,1,0,0,0,0,0,1,1,1,0,1,0,17.4,0
+Holiday Inn Express & Suites - Orlando At Seaworld,32821,222,9.2,9.4,9.3,9.3,9.2,8.8,9.3,9.3,0,1,0,1,0,0,0,1,1,0,0,1,0,9.3,0
+Mystic Dunes Resort & Golf Club By Diamond Resorts,34747,1495,8.7,8.7,8.9,8.7,8.6,8.6,7.6,8.8,0,1,0,1,0,0,0,1,1,0,1,1,0,19.3,0
+Wingate By Wyndham - Orlando International Airport,32822,769,8.7,8.9,8.8,8.5,8.5,8.4,8.7,8.9,0,1,0,1,0,0,0,1,0,0,0,1,0,6.2,0
+Comfort Suites Orlando Airport,32809,1067,8.7,8.8,8.9,8.5,8.6,8.6,8.5,8.5,0,0,0,0,1,0,0,1,1,0,0,1,0,5.6,0
+Hampton Inn & Suites Orlando-East UCF,32817,456,9.1,9.4,9.3,9.2,9.2,8.9,8.8,8.8,0,1,0,1,0,0,0,1,1,0,0,1,0,10.6,0
+Aloft Orlando Downtown,32801,276,8.6,8.9,8.8,8.6,8.9,7.7,8.9,8.9,0,0,0,1,1,0,0,1,0,1,1,1,0,1500,0
+Playhouse,34747,6,8.8,8.8,9.6,9.2,8.3,8.3,8.3,3,0,1,0,0,0,0,1,1,1,1,0,0,0,20.5,2
+Encore Club Orlando,34747,6,9.9,10,10,10,10,9.6,10,5,0,1,0,1,0,0,0,1,1,1,1,0,0,20.5,2
+The Florida Hotel & Conference Center - BW Premier Collection,32809,715,8.8,8.8,8.8,8.8,8.9,8.2,8.1,9.1,0,1,0,1,0,1,0,0,1,0,1,0,1,6.2,0
+JW Marriott Orlando Grande Lakes,32837,552,8.8,9.1,9.1,9.1,8.8,8,7.5,8.7,0,0,0,1,1,1,0,1,1,0,1,0,0,9.3,0
+Best Western Lake Buena Vista – Disney Springs® Resort Area,32830,1447,8.3,8.1,8.1,7.9,8.6,7.9,8.3,9,1,0,0,1,1,0,0,1,0,0,1,1,0,13,1
+Embassy Suites by Hilton- Lake Buena Vista Resort,32836,645,8.4,8.3,8.5,8.5,8.7,7.9,7.9,8.5,0,0,1,1,1,0,0,1,0,0,1,1,0,11.8,0
+Luxury Windsor Hills Condo,34747,78,8.7,8.7,8.9,8.6,8.7,8.6,9.5,8.9,0,1,0,1,0,0,0,1,1,0,1,1,0,19.3,0
+Homewood Suites by Hilton Lake Buena Vista,32836,358,8.6,8.5,8.6,8.5,8.7,8.4,7.9,8.8,1,1,0,1,0,0,0,1,0,0,1,1,0,11.8,0
+Fairfield Inn & Suites by Marriott Orlando Kissimmee/Celebration,34747,154,8.9,9.1,9,8.7,8.9,8.6,8.5,9,0,1,1,1,0,0,0,1,0,0,0,1,0,16.2,0
+Embassy Suites by Hilton Orlando International Drive I Drive 360,32819,253,8.7,8.7,8.8,8.7,8.7,8.2,8,9,0,0,0,1,1,0,0,1,1,0,1,1,0,8.1,0
+"Grand Bohemian Hotel Orlando, Autograph Collection",32801,293,8.8,9.1,9,8.8,8.8,7.8,9.1,8.8,0,0,0,1,1,0,0,0,1,0,1,1,0,1950,0
+Embassy Suites Orlando - Downtown,32801,248,8.7,8.9,8.7,8.7,8.9,7.8,10,9,1,0,0,1,1,0,0,1,0,0,1,1,0,0.7,0
+Holiday Inn Orlando East-UCF Area,32826,253,8.6,8.8,8.8,8.6,8.7,8.1,8.5,8.4,0,1,0,0,0,0,0,1,0,0,1,1,0,10.6,0
+Clarion Inn & Suites Universal Studios Area,32819,3357,8.3,8.5,8.1,8.1,8.2,8.2,8.4,8.6,0,1,0,1,0,0,0,1,1,0,1,1,0,5.6,1
+Hyatt Place Orlando Airport,32812,408,8.6,8.7,8.8,8.4,8.8,8.3,8.6,8.8,0,1,0,1,0,0,0,1,0,1,1,0,0,6.2,0
+Marriott's Harbour Lake,32821,247,9.4,9.5,9.5,9.5,9.5,9.1,9.3,9.5,0,1,0,1,0,0,0,1,1,0,1,1,0,10.6,0
+VISTA CAY DISNEY PARADISE 6,32819,5,9.8,9.5,9.5,10,10,9.5,10,5,0,1,0,1,0,0,0,1,1,0,1,1,0,8.1,2
+Gaylord Palms Resort & Convention Center,34746,1210,8.6,8.9,8.7,8.9,8.6,7.8,7.4,8.9,0,0,0,1,1,1,0,0,1,0,1,0,1,15.5,0
+Hilton Garden Inn Orlando International Drive North,32819,205,9,9.1,9,8.9,9.2,8.7,7.9,9.3,0,1,1,1,0,0,0,1,0,0,1,1,0,6.2,0
+Park Plaza Hotel Orlando - Winter Park,32789,154,8.3,8.7,7.8,7.7,9.1,7.1,8.4,9.1,0,1,0,0,0,0,0,1,0,1,0,1,0,4.3,1
+Blue Tree Resort at Lake Buena Vista,32836,548,8.4,8.1,8.2,8.4,8.4,8.4,8.7,8.9,0,1,0,1,0,0,0,1,1,0,0,1,0,12.4,0
+"Castle Hotel, Autograph Collection",32819,266,8.7,8.7,8.8,8.5,8.9,7.9,8.4,9,0,0,0,1,1,0,0,1,1,1,1,0,0,8.1,0
+Tink's Movie Castle,34747,5,9.8,10,10,10,9,10,10,5,0,1,0,1,0,0,0,1,1,0,0,1,0,19.3,2
+Courtyard by Marriott Orlando Lake Nona,32837,114,9.3,9.6,9.5,9.3,9.4,9,8.7,8.9,0,1,1,0,0,0,0,1,0,0,0,0,0,12.4,0
+Wingate by Wyndham - Universal Studios and Convention Center,32819,584,8.3,8.3,8.4,8,8.5,7.9,8,8.7,0,1,1,1,0,0,0,1,0,0,0,1,0,5.6,1
+Hilton Garden Inn Orlando at SeaWorld,32821,416,8.7,8.7,8.7,8.5,9,8.2,8.7,9.1,0,1,0,1,0,0,0,1,1,0,1,1,0,9.9,0
+"Hawthorn Suites by Wyndham Lake Buena Vista, a staySky Hotel & Resort",32836,928,8.1,7.7,8.1,7.9,8.4,8.1,8.7,8.7,0,1,1,1,0,0,0,1,0,0,0,1,0,11.8,1
+Celebrate BR,34747,19,8.9,8.8,8.6,9,9.2,8.8,9.4,9,0,1,0,1,0,0,0,1,1,0,0,1,0,19.3,0
+Best Western Orlando Convention Center Hotel,32821,1973,8.2,8.2,7.9,7.9,8.5,8.2,8.7,8.5,1,1,0,1,0,0,0,1,1,0,0,0,0,9.3,1
+DoubleTree Suites by Hilton Orlando at Disney Springs,32830,211,8.4,8.5,8.5,8.2,8.5,7.9,7.4,8.8,0,0,0,1,1,1,0,1,1,0,1,0,0,13,0
+Best Western International Drive - Orlando,32819,1399,8.1,8,7.8,7.8,8.5,7.9,8.4,8.9,0,1,1,1,0,0,0,1,0,0,0,1,0,8.1,1
+Holiday Inn Resort Orlando - Lake Buena Vista,32821,1064,8.5,8.4,8.5,8.3,8.6,8.1,8.3,8.8,0,0,0,1,1,0,0,1,1,1,1,0,0,13,0
+Autumn Villa IC049,34747,16,8.6,8,8.6,8.6,8.9,8.6,7.5,8.9,0,1,0,0,0,0,0,1,1,0,0,1,0,19.9,0
+Two Bedroom Townhouse in Oakwater Resort 27ow09,34747,5,8.4,9,8.5,8.5,6.5,9,9,1,0,1,1,0,0,0,0,1,1,0,0,1,0,18.6,2
+Crowne Plaza Hotel Orlando Downtown,32801,1153,8.3,8.7,8.6,8.4,8.6,7.8,8.8,7.9,0,0,0,1,1,0,0,1,1,0,1,1,0,1.2,0
+Disney Home,34747,66,9.2,9.3,9.5,9.3,8.8,9.1,9.1,9.3,0,1,0,1,0,0,0,1,0,0,0,1,0,19.3,0
+Embassy Suites Orlando - Airport,32822,10,7.9,7.8,8.5,7.3,8,7.3,2.5,8.5,0,0,0,1,1,0,0,0,1,0,1,0,1,6.8,1
+Paradise Palms 5 Bedroom-3503,34747,8,9.1,9.4,9.7,8.8,8.6,8.8,10,9.1,0,1,1,0,0,0,0,1,1,0,0,0,0,18,0
+"Bluegreen Vacations The Fountains, Ascend Resort Collection",32821,283,8.6,8.5,8.8,8.7,8.6,8.3,7.4,8.9,0,1,0,1,0,0,0,1,1,0,1,1,0,11.2,0
+Mickey Family Vacation Home,34747,390,8.7,8.3,8.7,8.7,8.4,8.8,9.2,9.2,0,1,0,1,0,0,0,1,1,0,0,1,0,18.6,0
+Holiday Inn Express Hotel & Suites Orlando East-UCF Area,32826,137,9,9.2,9.2,8.9,9.2,8.7,9.1,8.6,0,1,0,1,0,0,0,1,0,0,0,1,0,11.2,0
+Quality Suites Orlando Kissimmee The Royale Parc Suites,34746,1650,8.2,8,8.2,8,8.5,8.2,7.8,8.6,0,1,0,0,0,0,0,1,1,1,0,0,0,16.2,1
+Grand Lake & Lifetime of Vacations Resorts,34746,288,8.7,8.6,8.5,8.5,8.7,8.6,8.8,9.1,0,1,0,1,0,0,0,1,1,0,0,1,0,18.6,0
+Wyndham Lake Buena Vista Resort Disney Springs® Resort Area,32830,769,8.5,8.7,8.5,8.3,8.4,7.9,8,9.1,0,0,0,1,1,1,0,1,0,0,1,1,0,13,0
+"Bohemian Hotel Celebration, Autograph Collection",34747,160,8.6,8.8,8.8,8.6,8.7,7.7,8.7,9.2,0,0,0,0,1,0,0,1,1,1,1,1,0,17.4,0
+Parkside Palace,34747,5,8.4,8,9,8,8.5,8.5,8.5,2,0,1,0,1,0,0,0,1,1,0,1,1,0,19.3,2
+Orlando World Center Marriott,32821,653,8.4,8.6,8.4,8.6,8.5,7.4,7.4,8.7,0,0,0,1,1,0,0,1,1,0,1,1,0,14.3,0
+Hilton Orlando Bonnet Creek,32821,430,8.8,9,9,8.9,8.9,7.9,8.2,8.9,0,0,0,1,1,1,0,1,0,0,1,1,0,14.9,0
+Homewood Suites by Hilton Orlando-UCF Area,32826,102,8.6,9.1,8.8,8.8,8.5,8.2,7.7,8.2,0,1,1,1,0,0,0,1,0,0,0,1,0,10.6,0
+Six Bedrooms with Private Pool (1744),34747,15,8.4,8.7,9,8.2,6.4,8.5,10,9.2,0,1,0,0,0,0,0,1,0,0,0,1,0,20.5,0
+staySky Suites I-Drive Orlando,32822,1709,8.1,7.7,8,7.8,8.2,8.1,7.9,8.8,0,1,0,1,0,0,0,1,1,0,1,1,0,7.5,1
+Vist Cay Inn,32819,123,8.4,8.4,8.5,8.6,8,8.2,8.4,8.7,0,1,0,1,0,0,0,1,1,0,1,1,0,8.1,0
+Eight Bedrooms with Private Pool and Grill (1760),34747,6,8.6,7.9,8.8,8.8,7.5,9.2,9.2,3,0,1,0,0,0,0,1,1,1,0,0,0,0,20.5,2
+Westgate Lakes Resort and Spa,32819,2168,8.2,8.2,8.3,8.2,8.2,7.8,7.6,8.6,0,1,0,1,0,0,0,1,0,1,1,1,0,9.3,1
+Alamo Vacation Homes,32837,197,8.1,8.4,8.5,8.2,7.9,8.3,9.2,7.6,0,1,0,1,0,0,0,1,1,0,0,1,0,11.8,1
+Comfort Inn International Drive,32819,517,8.1,7.9,8,7.7,8.3,7.9,8.3,8.6,0,1,1,0,0,0,0,1,1,0,0,1,0,8.1,1
+Paradise IV,32819,5,9,8.5,9,9,9,8.5,10,2,0,1,1,1,0,0,0,1,1,0,1,0,0,8.1,2
+Orlando Airport Marriott Lakeside,32822,501,8.4,8.5,8.5,8.3,8.6,7.5,7,8.7,0,0,0,1,1,0,0,1,1,0,1,0,0,6.8,0
+Hilton Orlando Lake Buena Vista - Disney Springs™ Area,32830,1037,8.2,8.2,8.2,8.1,8.4,7.4,7.6,8.9,0,0,0,1,1,1,0,1,1,0,1,0,0,13.7,1
+3 Bedroom Standard Kissimmee Home,34747,5,9.2,9.5,9,9,9.4,9,9.5,4,0,1,0,0,0,0,1,1,1,0,0,0,0,18.6,2
+Hampton Inn Orlando-Convention Center International Drive Area,32819,366,8.4,8.4,8.4,8.1,8.8,8.1,8.4,8.8,0,1,0,1,0,0,0,1,1,0,0,1,0,8.1,0
+Ramada Plaza Suites Universal Studios,32819,522,8,7.8,8,7.8,8,7.7,7.8,8.8,0,1,0,0,0,0,0,1,0,0,1,1,0,7.5,1
+Bryan's Spanish Cove By Diamond Resorts,32821,76,9.1,9,9.2,8.8,9.1,9.3,9.3,8.8,0,1,0,1,0,0,0,1,1,0,0,1,0,13.7,0
+Avanti International Resort Near The Parks,32819,3669,8.1,7.8,7.8,7.9,8.3,7.9,8.4,8.8,1,0,0,1,1,0,0,1,0,0,1,1,0,8.1,1
+Westgate Town Center Resort,34747,2020,8.2,8.2,8.2,8.3,8.1,7.8,7.5,8.5,0,1,0,1,0,0,0,1,1,1,1,0,0,18.6,1
+B Resort and Spa Located in Disney Springs Resort Area,32830,1086,8.2,8.1,8.3,8.1,8.3,7.5,7.5,8.8,0,0,0,1,1,0,0,1,1,0,1,1,0,13,1
+Holiday Inn Resort Orlando Suites - Waterpark,32821,2884,8,7.9,8.2,7.9,8.1,7.6,7.3,8.4,1,0,0,1,1,0,0,1,0,0,1,1,0,14.3,1
+Radisson Hotel Orlando - Lake Buena Vista,32836,981,8.5,8.6,8.3,8.2,8.5,8.3,8.5,8.8,0,1,1,1,0,0,0,1,0,0,1,1,0,12.4,0
+Comfort Inn Orlando - Lake Buena Vista,32836,6360,8,7.9,8,7.5,7.8,8,7.7,8.6,0,1,1,0,0,0,0,1,1,0,0,1,0,12.4,1
+Quality Inn & Suites by the Lake,34747,2020,7.9,7.7,7.9,7.6,8,8.1,8.4,8.3,0,1,0,1,0,0,0,1,1,0,0,1,0,18.6,1
+Regal Oaks Resort 5728,34746,9,8.2,8.3,8.3,8.6,7.2,8.1,8.3,5,0,1,1,0,0,0,0,1,1,0,1,0,0,16.2,2
+Buena Vista Suites,32821,1749,8.2,8.1,8.2,8,8.2,8,8.1,8.6,0,1,0,1,0,0,0,1,1,0,1,1,0,13.7,1
+Comfort Suites Downtown,32804,359,8.2,8.3,8.2,8,8.7,7.9,8.2,8.3,0,1,0,1,0,0,0,1,1,0,0,1,0,2.7,1
+Quality Inn At International Drive Orlando,32819,4317,7.8,7.6,7.7,7.4,7.3,7.9,7.3,8.7,0,1,0,0,0,0,0,1,1,0,1,1,0,8.1,1
+Orlando Disney Area - Windsor Hills Resort,34747,23,8.6,8.1,9,8.4,8.6,8.4,9.2,9.3,0,1,1,0,0,0,0,1,0,0,0,1,0,19.3,0
+La Quinta Inn Orlando Near Universal,32819,2641,7.8,7.6,7.6,7.3,7.9,7.9,7.9,8.6,0,1,0,0,0,0,0,1,1,1,0,1,0,6.8,1
+Lake or Conservation View Vacation Homes,34747,601,7.8,7.7,8.1,7.9,7.6,7.8,8.5,7.9,0,1,0,1,0,0,0,1,1,0,0,1,0,18.6,1
+Quality Suites Lake Buena Vista near Walt Disney World,32836,1727,8.3,8.2,8.3,8,8.3,8.5,8.3,8.9,0,1,1,0,0,0,0,1,1,0,0,1,0,11.8,0
+Wyndham Garden Lake Buena Vista Disney Springs® Resort Area,32822,3690,7.8,7.8,7.5,7.5,8,7.3,8.2,8.8,1,0,0,1,1,0,0,1,0,0,1,1,0,13,1
+Red Lion Hotel Orlando Kissimmee Maingate,34747,2550,8.1,7.8,8,7.7,8.1,8.3,8,8.7,0,1,0,1,0,0,0,1,1,1,1,0,0,18,1
+Fairfield Inn & Suites by Marriott Orlando Lake Buena Vista,32836,1105,8.7,8.8,8.7,8.5,8.7,8.6,8.8,8.8,1,1,0,1,0,0,0,1,0,0,0,1,0,12.4,0
+Comfort Inn & Suites Convention Center,32819,2241,8.1,7.9,8,7.7,8.1,8,7.9,8.6,1,1,0,0,0,0,0,1,1,0,0,1,0,7.5,1
+Sunsol International Drive,32819,2643,7.9,7.8,7.6,7.4,7.9,7.8,7.4,8.7,0,0,0,1,1,0,0,0,1,0,1,1,1,6.2,1
+Westgate Palace Resort,32819,583,8.2,8.1,8.2,8.1,8.1,7.8,8.8,8.8,1,1,0,1,0,0,0,0,0,0,1,1,0,6.8,1
+DWS Vacation Villas,34747,217,7.7,7.5,8,7.8,7.1,7.9,8,7.7,0,1,0,1,0,0,0,1,1,1,0,0,0,18.6,1
+"Disney-World Orlando Area, U.S.A - Paradise Palms Resort",34747,80,8.4,8.6,8.7,8.4,8.2,8.2,7.7,8.4,0,1,0,1,0,0,0,1,0,0,1,1,0,18.6,0
+Regal Oaks 2716,34746,6,8,7.9,7.9,7.5,7.9,7.9,8.8,1,0,1,1,0,0,0,0,1,1,0,1,0,0,16.2,2
+Ramada by Wyndham Orlando Florida Mall,32809,187,8,8.2,8.3,7.8,8.1,7.8,8.4,8.1,0,1,1,0,0,0,0,1,0,0,0,1,0,6.2,1
+"8 Bedrooms with Private Pool, Spa and Grill (1803)",34747,6,7.5,7.1,7.9,7.5,7.1,6.7,8.8,2,0,1,0,0,0,0,0,1,0,0,0,0,0,20.5,2
+Days Inn by Wyndham Orlando Conv. Center/International Dr,32819,3128,7.4,7,7.1,7,7.6,7.6,7.5,8.3,0,1,0,1,0,0,0,1,1,0,0,1,0,8.7,1
+Clarion Inn & Suites at International Drive,32819,2863,7.3,7,7.1,6.8,7.3,7.2,7.3,8.1,0,1,0,0,0,0,0,1,1,0,0,0,0,8.7,1
+Parc Corniche Condominium Suites,32821,1231,8.1,7.6,8,7.8,8.3,8.2,8.4,8.6,0,1,0,1,0,0,0,1,1,0,1,1,0,10.6,1
+Holiday Inn & Suites Orlando Universal,32819,1130,8.1,7.9,8,7.7,8.3,7.8,8.3,8.9,0,1,0,1,0,0,0,1,1,1,1,0,0,5.6,1
+Floridian Express International Drive,32819,1440,7,6.1,6.7,6.3,7.2,7.1,6.3,8.5,0,1,0,1,0,0,0,1,1,0,0,1,0,6.8,1
+Midpointe Hotel by Rosen Hotels & Resorts,32819,1909,7.7,7.5,7.3,7.2,7.8,7.7,7.4,8.5,1,1,0,0,0,0,0,1,0,1,0,1,0,8.7,1
+Courtyard Orlando Lake Buena Vista at Vista Centre,32836,963,8.4,8.4,8.4,8.2,8.6,8.4,9,8.7,0,1,0,1,0,0,0,1,1,0,1,1,0,12.4,0
+Comfort Inn Maingate,34747,1339,7.9,7.6,7.9,7.6,8.2,7.8,7.6,8.6,0,1,1,1,0,0,0,1,1,0,1,0,0,18.6,1
+Rodeway Inn Maingate,34747,6118,7.6,7.3,7.3,7,7.7,8.1,8.1,8.3,0,1,0,0,0,0,0,1,1,0,0,1,0,16.2,1
+Westgate Blue Tree Resort,32836,156,8.2,8.1,8.2,8.1,8.4,7.9,6.2,8.7,0,1,0,1,0,0,0,1,1,0,0,0,0,12.4,1
+Baymont by Wyndham Orlando Universal Blvd,32819,2211,7.6,7.3,7.4,7.2,8.1,7.5,8.1,8.4,0,1,0,1,0,0,0,1,0,1,0,1,0,7.5,1
+Econo Lodge International Drive,32819,3804,7.2,7.1,6.9,6.6,7.2,7.4,7.6,8.1,0,1,0,0,0,0,0,1,1,0,0,1,0,7.5,1
+Quality Suites Orlando Close to I-Drive,32819,3148,7.2,6.9,7.1,6.9,7.3,7.2,7.5,7.8,0,1,0,0,0,0,0,1,1,0,1,1,0,8.7,1
+Windsor Hills,32822,10,8.1,7.8,8,8.5,7.8,7.8,10,8.5,0,1,1,0,0,0,0,1,1,0,1,1,0,19.3,1
+La Quinta Inn Orlando Airport West,32812,1848,7.3,7,7.1,6.7,8.2,7.2,8.2,7.7,0,1,0,0,0,0,0,1,0,1,0,0,0,6.2,1
+Crowne Plaza Hotel Orlando-Universal,32819,1221,8.1,8.2,8.2,8,8.2,7.5,8.2,8.5,1,0,0,0,1,0,0,1,0,0,1,1,0,7.5,1
+Hilton Orlando Buena Vista Palace - Disney Springs Area,32830,1489,8.1,8,8.1,8,8.2,7.4,7.2,8.8,1,0,0,1,1,0,0,0,0,0,1,1,1,13.7,1
+Avanti Palms Resort And Conference Center,32819,895,7.3,6.6,7.4,6.9,7.4,7.1,7.7,8.5,0,1,0,1,0,0,0,1,1,1,1,0,0,7.5,1
+Melia Orlando Hotel,34747,891,8.1,8,8.2,8,8.2,7.7,8.3,8.4,0,1,0,1,0,0,0,1,1,1,1,0,0,16.8,1
+Wyndham Orlando Resort International Drive,32819,2872,7.7,7.7,7.6,7.5,8.1,7.2,8.1,8.4,0,0,0,1,1,0,0,1,1,1,1,0,0,7.5,1
+Eight Bedrooms with Private Pool and Spa (1756),34747,8,7.4,7.5,7.8,7.2,6,6.6,9.4,4,0,1,0,0,0,0,1,1,1,0,0,0,0,20.5,2
+Ramada Plaza Resort & Suites by Wyndham Orlando Intl Drive,32819,4018,7.3,7.2,7.2,7,7.4,7,7.2,8.2,0,1,0,1,0,1,0,1,1,0,1,0,0,7.5,1
+Ramada by Wyndham Suites Orlando Airport,32822,1134,7.7,7.5,7.6,7.2,8.1,7.5,8.5,8.4,0,1,1,1,0,0,0,1,0,0,0,0,0,6.8,1
+Extended Stay America - Orlando - Convention Center - Universal Blvd,32819,661,7.6,7.1,7.4,7.2,8.1,7.5,6.8,8.5,0,1,0,1,0,0,0,1,0,1,0,1,0,8.1,1
+Golf View Vacation Rentals,34747,201,7.4,7.4,7.7,7.3,6.9,7.3,8,7.5,0,1,0,0,0,0,1,1,0,1,0,1,0,18.6,1
+Ramada by Wyndham Kissimmee Gateway,34747,2517,7.3,6.9,7.1,6.9,7.5,7.4,6.7,8,0,1,0,1,0,0,0,1,0,1,1,1,0,18.6,1
+La Quinta Inn & Suites Orlando Universal Area,32819,1108,7.7,7.5,7.7,7.2,8.1,7.6,7.8,8.4,0,1,0,0,0,0,0,1,1,1,0,1,0,5.6,1
+Simba's Lake House,34747,6,8.2,7.9,8.8,7.1,9,7.9,8.3,1,0,1,0,0,0,0,0,1,1,1,0,1,0,19.9,2
+Days Inn by Wyndham Orlando Airport Florida Mall,32837,2688,7.4,7.2,7.2,7,7.7,7.6,8.3,7.4,0,1,0,0,0,0,0,1,0,1,0,1,0,7.5,1
+Six Bedrooms with Private Pool and Spa (1746),34747,7,7.9,7.5,8.6,8.2,6.4,8.2,10,8.6,0,1,0,0,0,0,0,1,1,0,0,0,0,20.5,1
+Red Roof Inn Orlando South - Florida Mall,32809,693,7.4,7.2,7.3,7.1,7.9,7.2,7.8,7.7,0,1,0,0,0,0,0,1,1,1,0,1,0,6.2,1
+Best Western Airport Inn & Suites,32809,1991,7.8,7.9,7.7,7.5,8,7.8,8.3,7.9,0,0,0,1,1,0,0,1,1,0,0,0,0,5.6,1
+Holiday Inn Orlando International Airport,32822,675,7.2,7,7.2,6.6,7.6,6.7,7.9,7.9,0,0,0,0,1,0,0,1,0,1,0,1,0,6.8,1
+The Floridian Hotel and Suites,32819,948,7.3,6.8,7,6.7,7.5,7.3,6.2,8.4,0,1,0,1,0,0,0,1,0,0,0,1,0,7.5,1
+Days Inn by Wyndham Orlando/International Drive,32819,3999,5.6,5,5.2,4.9,6,5.6,6.5,7.1,0,0,0,1,1,0,0,1,0,0,0,1,0,6.8,1
+ACO - Windsor Hills with Private pool (1617),34747,40,7.5,7.3,7.8,7.3,7.4,6.9,9.1,8.3,0,1,0,0,0,0,1,1,0,0,0,0,0,19.3,1
+Altamonte Hotel & Suites,32714,811,5,4.5,4.9,4.3,5.8,4.9,5.8,5.5,0,1,0,1,0,0,0,1,0,1,0,1,0,8.1,1
+Quality Suites Orlando I-Drive Convention Center,32819,1094,7.7,7.7,7.9,7.4,7.4,7.7,7.5,8.4,0,1,0,1,0,0,0,1,1,0,0,1,0,7.5,1
+Paradise Palms 4 Bedroom-3082,34747,12,8.8,8.8,9,9.3,7.9,9,8.8,7,0,1,0,0,0,0,0,1,1,0,0,0,0,18,0
+Paradise Palms 4 Bedroom-3281,34747,7,8.7,8.9,8.6,8.9,8.9,8.6,8.2,4,0,1,1,0,0,0,0,1,1,0,0,0,0,18,2
+Quality Inn & Suites,32819,2126,8.1,8.1,7.8,7.7,8.2,8.1,8,8.6,1,1,0,0,0,0,0,1,1,0,0,1,0,5.6,1
+Sheraton Orlando Lake Buena Vista Resort,32836,1192,7.5,7.3,7.5,7.4,7.7,6.8,7.7,8,0,0,0,1,1,0,0,1,1,1,1,0,0,12.4,1
+Windsor Hills Six Bedroom Holiday Home 26Dv29,34747,17,7.9,7.7,8.4,7.5,7.4,7.7,8.8,7,0,1,0,0,0,0,1,1,1,0,0,0,0,19.3,1
+Paradise Palms 5 Bedroom-3613,34747,10,9.1,8.8,9.3,9.8,8.5,9.3,10,9,0,1,1,0,0,0,0,1,1,0,0,0,0,18,0
+Sunny Oaks,34747,5,8.3,8,8.5,8.5,8.5,8.5,10,8,0,1,0,0,0,0,1,1,1,1,0,0,0,20.5,0
+Four Points by Sheraton Orlando International Drive,32819,521,7.8,7.8,7.8,7.4,8,7.3,8.5,8.6,1,1,0,1,0,0,0,1,0,0,1,1,0,6.8,1
+Park Inn by Radisson Resort & Conference Center- Orlando- Near Disney,34747,958,7.4,7.2,7.3,7.1,7.6,7.2,6.6,8,0,1,0,1,0,1,0,1,1,0,1,0,0,18,1
+Marriott's Grande Vista,32821,1170,8.8,8.9,9,8.9,8.8,8.4,8.7,8.9,0,1,0,1,0,0,0,1,1,0,1,1,0,10.6,0
+Best Western Plus Universal Inn,32819,1102,8.5,8.4,8.3,8.1,8.5,8.5,8.6,9.1,0,1,0,1,0,0,0,1,1,0,0,1,0,5.6,0
+Coco Key Hotel & Water Park Resort,32819,2679,7,6.7,6.9,6.9,7.2,6.6,6.2,8,0,1,0,1,0,0,0,1,1,0,1,1,0,7.5,1
+"Disney-World Area Orlando, U.S.A Favorite Holiday Rentals",34747,77,7.9,7.6,8.2,7.7,7.7,7.6,8.6,8.5,0,1,0,1,0,0,0,1,0,0,0,1,0,18.6,1
+Drury Inn & Suites Orlando,32822,1664,9.1,9.1,9.1,9,9.2,9,9,9.2,0,1,0,1,0,0,0,1,1,1,0,0,0,8.1,0
+Westgate Leisure Resort,32821,355,8.1,8.1,8.2,8,8.2,7.9,7.3,8.5,0,1,0,1,0,0,0,0,0,0,0,1,1,10.6,1
+Windsors Hills 7749,34747,5,9.1,9,9.5,9.5,8.5,8.5,9.5,4,0,1,0,1,0,0,0,1,1,0,1,1,0,19.3,2
+Hampton Inn & Suites Orlando near SeaWorld,32821,1056,9,9.2,9.1,8.9,9,8.9,8.3,9.2,1,1,0,1,0,0,0,1,0,0,0,0,0,9.9,0
+Westgate Vacation Villas Resort,34747,460,7.7,7.7,7.7,7.6,7.9,7.3,7.2,8.2,0,1,0,1,0,0,0,1,1,1,1,0,0,19.3,1
+Three Bedroom Vacation Townhouse Oakwater Resort 28ow14,34747,5,9.5,9.5,9.5,9.5,9.5,9.5,9.5,4,0,1,1,0,0,0,0,1,1,0,0,1,0,18.6,2
+Marriott's Sabal Palms,32821,26,8.5,8.6,8.6,8.7,8.5,8.1,9.6,8.9,0,1,0,1,0,0,0,1,1,0,0,1,0,14.3,0
+Rosen Inn Closest to Universal,32819,1851,8.5,8.3,8.2,8.1,8.4,8.5,7.6,9.2,0,1,0,1,0,0,0,1,0,1,1,1,0,6.8,0
+Windsor Wonderland Home,34747,12,9.2,9.2,9.4,9.4,8.8,9.2,9.4,8.8,0,1,0,0,0,0,1,1,0,0,0,0,0,19.3,0
+Seaescape,32819,17,9.4,9.6,9.7,9.6,8.3,9.6,10,9.4,0,1,0,1,0,1,0,1,0,1,1,0,0,8.1,0
+Shoreway Loop l 2004-Two Bedroom Apartment,32819,6,9.2,9.2,9.6,9.2,8.8,9.2,9.2,4,0,1,1,0,0,0,0,1,1,0,0,0,0,8.1,2
+Residence Inn by Marriott Near Universal Orlando,32819,29,9.5,9.8,9.7,9.5,9.5,9.2,2.5,9.4,0,1,1,0,0,0,0,1,1,0,0,1,0,5.6,0
+White Crane Home by Florida Dream Homes,34746,13,9.1,8.5,9.4,9.4,9.4,9.1,9.1,10,0,0,0,0,0,0,1,0,1,0,0,0,0,19.3,0
+Six Bedrooms with Private Pool and Spa (1751),34747,10,8,8.9,8.3,8,7,7.2,5,8.3,0,1,0,0,0,0,0,1,1,0,0,0,0,20.5,1
+Orlando International Resort Club,32819,287,9,9.1,9.1,8.9,9,8.9,7.7,9.1,0,1,1,0,0,0,0,1,0,0,0,1,0,6.2,0
+Windsor Magic,34741,5,8.9,9,9.5,9,8,8.5,9.5,2,0,1,1,0,0,0,0,1,0,0,0,0,0,19.3,2
+Contessa Dr,32829,12,9.8,9.6,9.8,9.8,9.8,10,10,9.6,0,1,0,0,0,0,1,1,0,0,0,1,0,8.1,0
+Regal Oaks Three Bedroom Villa,34746,6,9.3,10,8.3,8.8,9.6,9.2,10,4,0,1,1,0,0,0,0,1,1,0,1,0,0,16.2,2
+Hampton Inn & Suites Orlando Airport at Gateway Village,32812,478,8.9,9.1,9,8.9,9.1,8.3,8.6,9.1,0,1,0,1,0,0,0,1,0,0,0,1,0,6.8,0
+101 Dalmatian's Den,34747,5,9.4,9.5,9.5,9.5,9.5,9,9.5,4,0,1,0,0,0,0,0,1,1,1,0,1,0,19.9,2
+SeaWorld - Disney Apartments by NUOVO,32821,23,8.6,9,8.1,8.6,8.2,8.3,8.8,9.1,0,1,0,1,0,0,0,1,1,0,0,1,0,9.9,0
+DoubleTree by Hilton Orlando East - UCF Area,32817,355,8.9,9.1,9,8.9,9.2,8.4,8.9,8.9,0,1,0,1,0,0,0,1,0,0,0,1,0,11.2,0
+The Windsor Wonderland 6 BR Villa,34747,7,7.9,7.9,7.9,7.9,7.5,7.9,8.2,4,0,1,0,1,0,0,0,1,1,0,0,1,0,19.3,2
+Windsor Hills Townhomes by IPG,34747,10,7.8,7.3,7.3,7,8.3,7.5,10,9.3,0,1,0,0,0,0,1,1,1,0,0,1,0,19.3,1
+FunQuest Condos at Windsor Hills Kissimmee,34747,36,7.3,7.2,7.6,7.2,6.3,7.5,9.7,8.2,0,1,0,1,0,0,0,1,1,0,1,1,0,19.3,1
+The Windsor Hills Resort-7664,34747,6,8.8,8.8,8.8,9.2,8.8,8.3,10,9.2,0,1,1,1,0,0,0,1,1,0,0,0,0,19.3,0
+Nemo's Nook,34741,9,8.9,8.9,9.2,9.2,7.8,8.6,7.5,9.7,0,1,1,0,0,0,0,1,0,0,0,0,0,19.3,0
+Luxury Villas in Encore Waterpark,34747,25,9.1,9.1,9.2,9.3,9,8.7,10,9.2,0,1,0,1,0,0,0,1,1,0,1,1,0,20.5,0
+Rosen Centre Hotel Orlando Convention Center,32819,305,8.7,9,8.7,8.8,8.7,8,7.9,9.2,0,0,0,1,1,0,0,1,0,1,1,1,0,8.7,0
+Festiva Orlando Resort,34747,520,8.6,8.3,8.4,8.4,8.8,8.9,8.9,8.7,0,1,0,1,0,0,0,1,1,1,0,0,0,19.9,0
+Hampton Inn & Suites Orlando International Drive North,32819,478,8.8,8.9,8.8,8.6,9,8.5,7.9,8.8,0,1,0,1,0,0,0,1,1,0,1,1,0,7.5,0
+Hampton Inn Lake Buena Vista / Orlando,32836,586,9,9.1,8.9,8.8,9.3,8.9,8.9,9.1,0,1,0,1,0,0,0,1,1,0,0,1,0,11.8,0
+2/3 Bed Condos Close to Disney,32821,5,9.8,10,10,10,10,9,10,5,0,1,0,1,0,0,0,1,1,0,0,1,0,9.9,2
+La Quinta Inn & Suites Orlando UCF,32826,67,9.3,9.5,9.3,9.2,9.6,9.1,9.6,9.4,0,1,0,1,0,0,0,1,1,1,0,0,0,11.2,0
+Tropical Palms Premium Three-Bedroom Cottage 40,34746,7,7.9,8.2,7.5,7.9,8.2,7.2,10,8.2,0,1,1,0,0,0,0,1,1,0,0,0,0,16.2,1
+Three Bedroom Condo First Floor Gated Community,34747,6,9.9,10,10,10,9.6,10,10,6,0,1,1,1,0,0,0,1,0,0,0,1,0,18.6,2
+Homewood Suites by Hilton Orlando North Maitland,32751,96,8.9,9,9.2,9,9.1,8.6,8.8,8.3,0,1,0,1,0,0,0,1,1,0,0,1,0,6.2,0
+SuiteLivingPlus,32821,56,9,9.5,9.4,9.1,8.3,8.5,8.8,9,0,1,0,0,0,1,0,1,1,0,0,1,0,8.1,0
+Windsor Magic,34747,11,9.1,9.3,8.9,9.1,9.1,8.9,9.1,8,0,1,0,0,0,0,1,1,1,0,0,0,0,19.3,0
+La Quinta Inn & Suites Orlando Airport North,32812,984,8.6,8.7,8.6,8.4,8.6,8.4,8.9,8.9,0,1,0,0,0,0,0,1,0,1,0,1,0,6.2,0
+SpringHill Suites by Marriott Orlando Convention Center,32819,257,8.7,8.5,8.7,8.5,9,8.4,8.5,8.9,0,1,0,1,0,0,0,1,1,0,0,1,0,8.1,0
+Homewood Suites by Hilton Orlando Airport,32812,171,9,9.1,9.1,8.9,9,8.7,8.5,9,0,0,0,1,1,0,0,1,0,1,0,0,0,6.8,0
+Delta Hotels by Marriott Orlando Lake Buena Vista,32836,216,8.7,8.9,8.9,8.6,8.8,8.2,8.6,8.8,0,0,1,0,1,0,0,1,1,0,1,1,0,12.4,0
+Disney&Golf Holiday Home,34747,5,9.6,10,10,10,9.5,9,9,4,0,1,1,0,0,0,0,1,1,0,1,1,0,21.1,2
+Paradise Palms 4 Bedroom-3032,34747,6,9.5,10,9.2,9.6,9.2,9.6,9.2,5,0,1,0,0,0,0,0,1,1,0,0,0,0,18,2
+Regal Oaks Stay Orlando,34746,11,9.4,9.8,9.6,8.9,9.1,9.6,7.5,9.6,0,1,1,0,0,0,0,1,1,0,1,1,0,16.2,0
+Embassy Suites Orlando - North,32701,246,8.5,8.5,8.5,8.4,8.6,8.2,8.1,8.7,0,1,0,1,0,0,0,1,0,0,1,1,0,8.7,0
+Las Palmeras by Hilton Grand Vacations,32819,176,8.9,9.2,9.1,8.9,9,8.3,9,8.7,0,0,1,1,1,0,0,0,0,0,1,1,1,8.1,0
+Fairfield Inn & Suites by Marriott Orlando East/UCF Area,32817,136,9,9.3,9.2,9,9,8.5,8.5,8.8,0,1,1,0,0,0,0,1,1,0,0,1,0,10.6,0
+Paradise Palms 6 Bedroom-3150,34747,5,8.8,8.5,9,8,8.5,9,9.5,3,0,1,1,0,0,0,0,1,1,0,0,0,0,18,2
+Courtyard Orlando International Drive/Convention Center,32819,110,8.7,9.1,8.7,8.5,8.9,8.2,8.6,9,0,1,1,0,0,0,0,1,0,0,0,1,0,8.1,0
+The Courtyard at Lake Lucerne,32801,49,8.8,8.9,8.8,8.7,8.9,8.5,8.1,9,0,1,0,0,0,0,1,1,0,0,0,1,0,2600,0
+Rosen Inn at Pointe Orlando,32819,1713,8.3,8.2,8,8.1,8.2,8.3,8.3,9,0,1,0,1,0,0,0,1,1,1,1,0,0,8.7,1
+Sun Lake Resort-3126,34747,6,9.1,9.6,9.2,8.3,7.9,10,9.6,5,0,1,1,1,0,0,0,1,0,0,0,0,0,18.6,2
+Magic Tree Resort,34747,55,9,8.9,9.2,8.9,9,8.8,9.6,9.2,0,1,1,1,0,0,0,1,0,0,0,1,0,18.6,0
+Pool Paradise,34747,13,9.2,8.9,9.6,9.1,9.1,9.4,7.5,9.4,0,1,0,0,0,0,1,1,1,1,0,0,0,20.5,0
+Hampton Inn & Suites Orlando-John Young Parkway/South Park,32819,334,9.2,9.4,9.3,9.2,9.3,9,8.8,8.8,1,1,0,0,0,0,0,1,1,0,0,1,0,6.8,0
+Hampton Inn Closest to Universal Orlando,32819,277,8.8,8.9,8.8,8.5,9.2,8.6,8.6,8.9,0,1,1,0,0,0,0,1,1,0,0,1,0,5.6,0
+Celebration Suites 2 Bedroom Condo,34746,11,9.1,9.1,9.1,8.6,8.9,8.8,9.8,7,0,1,0,1,0,0,0,1,0,1,0,1,0,16.2,0
+Tropical Palms Standard Two-Bedroom Cottage 16,34746,7,8.7,9.3,7.9,8.6,8.2,8.9,9.3,4,0,1,1,0,0,0,0,1,1,0,0,0,0,16.2,2
+Apartment Nena,32819,16,8.9,9.1,8.9,8.9,8.6,8.6,8.3,9.2,0,1,0,1,0,0,0,1,1,0,0,1,0,8.7,0
+Vista Apartment Three Bedroom Apartment JU7,32819,5,9.1,8.5,9.5,9.4,8.1,9.5,8.8,9.5,0,1,1,0,0,0,0,1,1,0,1,0,0,8.1,0
+Hilton Garden Inn Orlando Lake Buena Vista,32836,306,8.3,8.5,8.6,8.3,8.3,8,7.6,8.4,0,1,1,1,0,0,0,1,0,0,1,1,0,11.8,0
+Vacation Home Rental Near Disney 27Il01,34746,9,8.7,8.1,9.2,8.6,8.6,8.3,9.4,4,0,1,1,0,0,0,0,1,1,0,1,1,0,16.2,2
+WorldMark Orlando Kingstown Reef,32821,43,8.7,8.7,8.9,8.7,8.6,8.4,4.5,8.8,0,1,1,1,0,0,0,0,0,0,0,0,1,11.2,0
+King Triton's Castle,34747,10,8.7,8.5,9.3,9,8.8,8,10,8.8,0,1,0,0,0,0,0,1,1,1,0,1,0,20.5,0
+Closest Vacation Home Holiday Rental 26Ds37,34747,13,8,8.3,8.5,7.9,7.3,7.3,10,9,0,1,1,0,0,0,0,1,0,0,0,1,0,19.3,1
+Rosen Shingle Creek Universal Blvd,32822,297,9.1,9.3,9.3,9.3,9,8.7,8.1,9.1,0,0,0,1,1,1,0,1,0,0,1,1,0,8.1,0
+Mickey's Beach House,34747,5,8.7,9,9,9,8.5,8.5,7.5,8,0,1,0,0,0,0,0,1,1,1,0,1,0,20.5,0
+The Alfond Inn,32789,137,9.1,9.3,9.3,9.2,9.3,8.1,9.4,9.4,0,0,0,1,1,0,0,1,1,1,1,0,0,4.3,0
+Residence Inn Orlando Convention Center,32819,49,8.7,8.8,8.9,8.5,8.9,8.4,8.1,8.9,0,1,1,1,0,0,0,1,1,0,0,0,0,8.1,0
+Hawthorn Suites By Wyndham Orlando International Drive,32819,265,8,7.5,8.1,7.7,8.2,7.8,7.7,8.9,0,1,0,1,0,0,0,1,0,1,0,1,0,7.5,1
+Windsor Hills Resort Kissimmee - Disney Area,34747,35,8.4,7.9,8,8,8.8,8.6,7.5,9.2,0,1,0,1,0,0,0,1,0,1,1,1,0,19.3,0
+Blue Heron Resort Condo 206,32821,16,8.9,9.2,8.6,8.3,8.8,8.9,9.7,10,0,1,0,1,0,0,0,1,1,0,1,1,0,13,0
+Tropical Palms Premium Loft Cottage 33,34746,5,9.1,9,8.5,9.5,8.5,9,10,10,0,1,1,0,0,0,0,1,1,0,0,0,0,16.2,0
+Audez Tropical Haven,34747,5,9,9,9,9,9,9,9,3,0,1,0,0,0,0,0,1,1,1,0,1,0,20.5,2
