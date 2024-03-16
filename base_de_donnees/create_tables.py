@@ -8,6 +8,57 @@ def createTables():
         print(f"Connected to database {conn}")
         cursor = conn.cursor()
         
+        drop_table_hotel_bookings = """
+        DROP TABLE IF EXISTS Hotel_Bookings;
+        """
+        cursor.execute(drop_table_hotel_bookings)
+
+        drop_table_hotel_reviews = """
+        DROP TABLE IF EXISTS Hotel_Reviews;
+        """
+        cursor.execute(drop_table_hotel_reviews)
+
+        drop_table_hotels = """
+        DROP TABLE IF EXISTS Hotels;
+        """
+        cursor.execute(drop_table_hotels)
+        
+        drop_table_cities = """
+        DROP TABLE IF EXISTS Cities;
+        """
+        cursor.execute(drop_table_cities)
+
+        create_table_cities = """
+        CREATE TABLE IF NOT EXISTS Cities (
+            id SERIAL PRIMARY KEY,
+            City VARCHAR(255),
+            Country VARCHAR(255)
+        );
+        """
+        cursor.execute(create_table_cities)
+
+        create_table_hotels = """
+        CREATE TABLE IF NOT EXISTS Hotels (
+            id SERIAL PRIMARY KEY,
+            Name VARCHAR(255),
+            City_id SERIAL,
+            FOREIGN KEY (City_id) REFERENCES Cities(id) ON DELETE CASCADE
+        );
+        """
+        cursor.execute(create_table_hotels)
+
+        create_table_hotel_reviews = """
+        CREATE TABLE IF NOT EXISTS Hotel_Reviews (
+            id SERIAL PRIMARY KEY,
+            Hotel_id SERIAL,
+            Score FLOAT NULL,
+            Cleanliness FLOAT NULL,
+            Comfort FLOAT,
+            FOREIGN KEY (Hotel_id) REFERENCES Hotels(id) ON DELETE CASCADE
+        );
+        """
+        cursor.execute(create_table_hotel_reviews)
+
         create_table_hotel_bookings = """
         CREATE TABLE IF NOT EXISTS Hotel_Bookings (
             id SERIAL PRIMARY KEY,
@@ -30,20 +81,7 @@ def createTables():
         """
         cursor.execute(create_table_hotel_bookings)
 
-        create_table_hotel_reviews = """
-        CREATE TABLE IF NOT EXISTS Hotel_Reviews (
-            id SERIAL PRIMARY KEY,
-            hotel VARCHAR(255),
-            zip_code VARCHAR(255),
-            numRev INT,
-            Score FLOAT,
-            Cleanliness FLOAT,
-            Comfort FLOAT
-        );
-        """
-        cursor.execute(create_table_hotel_reviews)
-        
-        print(f"Tables created")
+        print(f"Tables dropped and recreated")
 
         conn.commit()
         cursor.close()
