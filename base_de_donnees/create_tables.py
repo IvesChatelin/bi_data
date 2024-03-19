@@ -62,7 +62,7 @@ def createTables():
         create_table_hotel_bookings = """
         CREATE TABLE IF NOT EXISTS Hotel_Bookings (
             id SERIAL PRIMARY KEY,
-            hotel VARCHAR(255),
+            hotel_id SERIAL,
             is_canceled INT,
             reservation_status_date DATE,
             country VARCHAR(255),
@@ -76,7 +76,8 @@ def createTables():
             booking_changes INT,
             adr FLOAT,
             reservation_status VARCHAR(255),
-            market_segment VARCHAR(255)
+            market_segment VARCHAR(255),
+            FOREIGN KEY (hotel_id) REFERENCES Hotels(id) ON DELETE CASCADE
         );
         """
         cursor.execute(create_table_hotel_bookings)

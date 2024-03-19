@@ -1,3 +1,4 @@
+import random
 import psycopg2
 from config import load_config
 import pandas as pd
@@ -57,12 +58,16 @@ def insert_data_into_hotels(conn, cursor):
     print("Hotels data inserted")
 
 def insert_data_into_hotel_bookings(conn, cursor):
+    hotels_file = "hotels.csv"
+    hotels_df = pd.read_csv(hotels_file)
+    hotels_ids = list(hotels_df["id"])
+
     hotel_bookings_file = "hotel_bookings_filtered.csv"
     hotel_bookings_df = pd.read_csv(hotel_bookings_file)
 
     for index, row in hotel_bookings_df.iterrows():
-        hotel = row["hotel"]
-        print(hotel)
+        hotel_id = random.choice(hotels_ids)
+        print(hotel_id)
         is_canceled = row["is_canceled"]
         print(is_canceled)
         reservation_status_date = row["reservation_status_date"]
@@ -78,6 +83,8 @@ def insert_data_into_hotel_bookings(conn, cursor):
         adults = row["adults"]
         print(adults)
         children = row["children"]
+        if pd.isnull(children):
+            children = 0
         print(children)
         stays_in_week_nights = row["stays_in_week_nights"]
         print(stays_in_week_nights)
@@ -92,12 +99,12 @@ def insert_data_into_hotel_bookings(conn, cursor):
         market_segment = row["market_segment"]
         print(market_segment)
         insert_query = """
-        INSERT INTO Hotel_Bookings (hotel, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, assigned_room_type, adults, children, stays_in_week_nights, stays_in_weekend_nights, booking_changes, adr, reservation_status, market_segment)
+        INSERT INTO Hotel_Bookings (hotel_id, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, assigned_room_type, adults, children, stays_in_week_nights, stays_in_weekend_nights, booking_changes, adr, reservation_status, market_segment)
         VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """
-        cursor.execute(insert_query, (hotel, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, assigned_room_type, adults, children, stays_in_week_nights, stays_in_weekend_nights, booking_changes, adr, reservation_status, market_segment))
-        if index == 1000:
-            break
+        cursor.execute(insert_query, (hotel_id, is_canceled, reservation_status_date, country, deposit_type, reserved_room_type, assigned_room_type, adults, children, stays_in_week_nights, stays_in_weekend_nights, booking_changes, adr, reservation_status, market_segment))
+        # if index == 1000:
+        #     break
     
     conn.commit()
     print("Hotel bookings data inserted")
